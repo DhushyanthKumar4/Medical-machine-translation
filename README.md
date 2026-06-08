@@ -1,2 +1,1 @@
-# NLP-Project-Medical-Translation-Transformer-Research
-Research-focused NLP project on domain-specific medical machine translation (EN↔KO) using Transformer models. Studies robustness, hallucination, data efficiency, and cross-domain generalization with systematic experiments and evaluation.
+Research-focused Transformer-based medical machine translation system for English–Korean translation with evaluation of robustness, hallucination, data efficiency, and cross-domain generalization.
